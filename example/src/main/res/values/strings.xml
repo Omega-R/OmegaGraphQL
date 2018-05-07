@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OmegaGraphQl</string>
+    <string name="first_example">First example</string>
+    <string name="second_example">Second example</string>
+</resources>
