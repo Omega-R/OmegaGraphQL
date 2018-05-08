@@ -19,7 +19,7 @@ allprojects {
 **Step 2.** Add the dependency
 ```
 dependencies {
-    compile 'com.github.Omega-R:OmegaGraphQl:0.0.1'
+    compile 'com.github.Omega-R:OmegaGraphQl:0.0.2'
 }
 ```
 # Usage
