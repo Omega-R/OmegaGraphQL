@@ -7,14 +7,11 @@ import com.omega_r.libs.omegagraphql.annotations.GraphQlConst;
 import com.omega_r.libs.omegagraphql.annotations.GraphQlField;
 import com.omega_r.libs.omegagraphql.annotations.GraphQlObject;
 import com.omega_r.libs.omegagraphql.annotations.GraphQlQuery;
-import com.omega_r.libs.omegagraphql.utils.ReflectionUtils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;
-import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
